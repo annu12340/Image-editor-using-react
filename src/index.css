@@ -1,0 +1,56 @@
+body {
+   overflow-x: hidden;
+}
+label {
+   display: inline-block;
+   width: 85px;
+   font-size: 14px;
+   color: #000;
+}
+
+input[type="range"] {
+   width: 60%;
+   margin-left: 10px;
+}
+
+/*style*/
+header h1 {
+   font-size: 42px;
+   font-family: "Source Sans Pro";
+   font-weight: 600;
+   margin: 20px auto;
+   text-align: center;
+}
+
+.InputForm {
+   text-align: center;
+   padding-left: 40%;
+}
+
+.result {
+   margin: auto;
+   background: #ececec;
+   width: 70%;
+   height: 450px;
+}
+.preview {
+   margin-left: 25%;
+   margin-right: 10%;
+   max-height: 700px;
+   max-width: 1000px;
+}
+
+.add-effects {
+   margin: 2%;
+   margin-left: 20%;
+   margin-right: 20%;
+}
+.col-1 {
+   margin: 5%;
+}
+.col-3 {
+   font-size: 20px;
+}
+.share {
+   padding-left: 20%;
+}
